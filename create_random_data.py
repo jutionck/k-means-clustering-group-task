@@ -13,4 +13,3 @@ data = pd.DataFrame({
 # Simpan dataset ke file CSV
 data.to_csv('dummy_dataset.csv', index=False)
 
-
